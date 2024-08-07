@@ -1,26 +1,26 @@
 # My JavaScript Project
 A project based on generating random quotes
 
-##Table of Contents
+## Table of Contents
 * [General Info](#general-Info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Inspiration](#inspiration)
 
 
-##General Info
+## General Info
 A portfolio proect from codecademy full-stack engineer course.
 
-##Technologies
+## Technologies
 * JavaScript
 * Node
 
-##Setup
+## Setup
 To run this project, paste it into a text editor and run it using node:
 
     $ cd ../folder
     $ node index.js
 
-##inspiration
+## inspiration
 The code: codecademy solution
 README: Shaun Watkins
